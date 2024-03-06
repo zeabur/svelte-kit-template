@@ -6,8 +6,8 @@ settings:
 
 dependencies:
   '@zeabur/svelte-adapter':
-    specifier: ^0.0.4
-    version: 0.0.4(@sveltejs/kit@2.5.2)
+    specifier: ^0.0.5
+    version: 0.0.5(@sveltejs/kit@2.5.2)
 
 devDependencies:
   '@fontsource/fira-mono':
@@ -506,8 +506,8 @@ packages:
       - supports-color
     dev: false
 
-  /@zeabur/svelte-adapter@0.0.4(@sveltejs/kit@2.5.2):
-    resolution: {integrity: sha512-4hCU3Y0A/mQ6Yvxuo+VqtFlRW6nYR0uAsLGvGq0ktaHBky3wQ+4EsHyeGrBrxUsvSR5LdAKuneLDYs6R9ogSFQ==}
+  /@zeabur/svelte-adapter@0.0.5(@sveltejs/kit@2.5.2):
+    resolution: {integrity: sha512-FckNTmuN+r/GrvdIQMq6SP1X62U7xsRvKB9PtuhqyxIcQe/EuOmgrk9SSzlJXGa455TFTb15RrSJow4KpTExUA==}
     peerDependencies:
       '@sveltejs/kit': ^2.4.0
     dependencies:
