@@ -21,6 +21,6 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"@zeabur/svelte-adapter": "^0.0.3"
+		"@zeabur/svelte-adapter": "^0.0.4"
 	}
 }
